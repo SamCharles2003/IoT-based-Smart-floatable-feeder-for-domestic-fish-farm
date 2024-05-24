@@ -17,9 +17,9 @@
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID           "TMPL3-wGRTRDr"
-#define BLYNK_TEMPLATE_NAME         "Smart Fishery"
-#define BLYNK_AUTH_TOKEN            "o3ONqj8xHAlpiltnqGMII2vZGzwmz3iZ"
+#define BLYNK_TEMPLATE_ID           ""
+#define BLYNK_TEMPLATE_NAME         ""
+#define BLYNK_AUTH_TOKEN            ""
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -35,8 +35,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Galaxy A14 5G";
-char pass[] = "masleschar3002";
+char ssid[] = "SSID";
+char pass[] = "PASSWORD";
 
 // Hardware Serial on Mega, Leonardo, Micro...
 #define EspSerial Serial1
